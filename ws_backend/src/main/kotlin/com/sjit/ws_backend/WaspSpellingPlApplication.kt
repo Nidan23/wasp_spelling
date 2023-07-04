@@ -1,4 +1,4 @@
-package com.sjit.wasp_spelling_pl
+package com.sjit.ws_backend
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
