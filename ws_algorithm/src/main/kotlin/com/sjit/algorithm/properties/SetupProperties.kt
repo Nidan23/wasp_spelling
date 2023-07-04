@@ -1,8 +1,5 @@
 package com.sjit.algorithm.properties
 
-class SetupProperties {
-
-    fun setup() {
-        SetupLetters()
-    }
+fun setupLetters(letters: String, separator: String): List<String> {
+    return letters.split(separator)
 }
