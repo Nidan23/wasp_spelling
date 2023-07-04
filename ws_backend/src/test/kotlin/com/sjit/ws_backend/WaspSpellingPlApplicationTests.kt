@@ -1,4 +1,4 @@
-package com.sjit.wasp_spelling_pl
+package com.sjit.ws_backend
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
