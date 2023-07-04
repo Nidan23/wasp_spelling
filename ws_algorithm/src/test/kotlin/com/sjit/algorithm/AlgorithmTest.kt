@@ -7,5 +7,7 @@ class AlgorithmTest {
     @Test
     fun properTest() {
         print("Essa test")
+
+        Algorithm().startAlgorithm()
     }
 }
