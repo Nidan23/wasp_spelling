@@ -4,6 +4,7 @@ const val numberOfLetters: Int = 7
 const val numberOfAllowedSpecialVowels: Int = 1
 const val numberOfAllowedSpecialConsonants: Int = 1
 const val maxNumberOfAllVowels: Int = 3
+const val minNumberOfAllVowels: Int = 1
 const val maxNumberOfAllConsonants: Int = numberOfLetters - maxNumberOfAllVowels
 const val minNumberOfWords: Int = 150
 
